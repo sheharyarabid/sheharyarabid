@@ -23,7 +23,7 @@ I build enterprise ERP platforms end to end: Angular front-ends, secure .NET API
 **Ops** — Git, IIS, Nginx
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,cs,dotnet,nuxtjs,react,postgres,nginx&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,cs,dotnet,nuxtjs,react,node&theme=dark" alt="Tech stack" />
 </p>
 
 ### Currently
