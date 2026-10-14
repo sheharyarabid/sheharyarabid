@@ -8,13 +8,12 @@ I build large scale enterprise platforms end to end, from architecture through p
 
 ---
 
-### Focus
+### Core Focus 
 
-- ERP products across HRM, healthcare, LMS, accounting and operations
-- Scalable .NET APIs and microservices with RBAC and enterprise SSO (Entra ID)
-- Configurable data grids, real-time dashboards and system-to-system sync
-- Multilingual (Arabic/English) SSR apps with Nuxt
-
+- **End-to-End Software Solutions:** ERP systems, SaaS platforms, PWAs, and full-stack applications—from concept to deployment.
+- **Scalable & Maintainable Architecture:** Microservices, Clean Architecture, and modular, atomic design principles for robust, future-ready solutions.
+- **Agile & Rapid Development:** Accelerated development cycles, efficient execution, and consistent delivery without compromising quality.
+- **Tailored Digital Solutions:** Custom-built applications aligned with business objectives, operational workflows, and evolving requirements.
 ### Stack
 
 **Frontend** — Angular, TypeScript, RxJS, Angular Material, Nuxt, React, Tailwind  
