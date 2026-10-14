@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** · Angular + .NET · Islamabad, PK
 
-I build enterprise ERP platforms end to end: Angular front-ends, secure .NET APIs, and real-time dashboards, from architecture through production.
+I build large scale enterprise platforms end to end, from architecture through production.
 
 [Portfolio](https://sheharyar-portfolio-2k25.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/sheharyarabid/) · [Résumé](https://drive.google.com/file/d/1aAc9s9xWyOkNB4S14npOuDwfqkc4HjCK/view?usp=sharing) · [Email](mailto:iamsheharyarabid@gmail.com)
 
@@ -23,9 +23,5 @@ I build enterprise ERP platforms end to end: Angular front-ends, secure .NET API
 **Ops** — Git, IIS, Nginx
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,cs,dotnet,nuxtjs,react,node&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,cs,dotnet,nuxtjs,react,nodejs&theme=dark" alt="Tech stack" />
 </p>
-
-### Currently
-
-Learning Angular Signals and deeper microservice patterns. Microsoft Learn Student Ambassador alumnus. Open to new opportunities.
